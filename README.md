@@ -14,3 +14,6 @@ This repository contains the solution for reading and processing graph data repr
      - **2)** Creating graph objects and setting node and edge attributes.
     
      - Optional Task: Also implemented the visualization of the Graph
+
+3. **Task 3: Subgraph Search (Incomplete)**
+   - Was unable to finish this task. Tried extracting data from the STEP file and creating the json file for the same. But was unable to generate the workpiece graph and hence couldn't compare if the given feature       graph is actually a subgraph of the workpiece graph. 
